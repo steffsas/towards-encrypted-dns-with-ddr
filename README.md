@@ -33,12 +33,6 @@ We developed a custom measurement platform called **DoE-Hunter** (written in Go,
 - Contributions to Go’s DNS library for SVCB and ODoH support.
 - First measurements of recursive-to-authoritative encrypted DNS (RFC 9539).
 
-## 📁 Repository Contents
-
-- `DoE-Hunter/`: Source code for the measurement platform
-- `data/`: Aggregated datasets and analysis artifacts (where applicable)
-- `docs/`: Thesis PDF and supplementary material
-
 ## 📄 Citation
 
 If you use this work, please cite the thesis as:
