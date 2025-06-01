@@ -47,7 +47,7 @@ If you use this work, please cite the thesis as:
 
 ## 📬 Contact
 
-For questions or collaboration, feel free to reach out: [your-email@example.com]
+For questions or collaboration, feel free to reach out: [steffen.sassalla@outlook.de]
 
 ---
 
